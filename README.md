@@ -13,6 +13,8 @@ Run the command "npm i" in the terminal at the root level to install the npm pac
 
 The website allows users to search for a city and it displays the weather for the next 5 days in that city. 
 
+![Home Page](assets/WeatherAPI.png)
+
 ## Credits
 
 Collaborators
